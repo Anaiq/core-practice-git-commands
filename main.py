@@ -2,7 +2,7 @@ import pytest
 
 
 def always_returns_true():
-    return True
+    print("digital car crash")
 
 
 def test_always_returns_true():
